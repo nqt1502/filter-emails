@@ -1,0 +1,32 @@
+textarea {
+width:100%!important;
+border-radius:5px;
+display:block;
+padding:8px 16px;
+margin-bottom:24px;
+height:140px;
+border:1px solid #E3E4E8;
+background-color:#fff;
+font-size:15px
+}
+
+#btn-copyy {
+position:relative;
+margin:0 0 30px
+}
+
+#btn-copyy a {
+padding:10px;
+position:relative;
+clear:both;
+background:#009300;
+color:#fff;
+font-size:15px;
+font-weight:700;
+border-radius:3px;
+text-transform:uppercase
+}
+
+#btn-copyy a:hover {
+text-decoration:none
+}
